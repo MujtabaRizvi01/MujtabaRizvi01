@@ -8,7 +8,7 @@
 <div align="left">
 
 
-  - I’m currently exploring Data Science and Security.
+
   - Development and CyberSecurity are the focus of my interests.
   -Unrelated Joke: Why do Python developers wear glasses? Because they don’t C!
   - I also find the following fields fascinating:
